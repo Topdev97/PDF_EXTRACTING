@@ -1,0 +1,299 @@
+1. __ Issuing body or authority (name and address)
+Oregon Tilth Certified Organic (OTCO)
+PO Box 368
+Corvallis, OR 97339
+1b. Licensing code of the certification body
+GOTS-OTCO-04
+
+
+
+************************************************************
+
+
+
+2. Input Information
+2a. Reference number of the input transaction certificate
+number
+OT-031781-02688
+2b. Farm scope certificate number of First Raw material
+N/A
+2c. Farm Transaction Certificate numbers of First Raw
+Material
+N/A
+2d. Trade(s) Transaction Certificate numbers of First Raw
+Material
+N/A
+
+
+
+************************************************************
+
+
+
+3. Seller of the product(s) (name and address)
+Texas Organic Cotton Marketing Cooperative
+2514 82nd Street
+Suite D
+Lubbock, TX 79423
+3b. License number of Seller
+OTCO-OT-025359
+
+
+
+************************************************************
+
+
+
+5. Last processor of the product(s) (name and address)
+Woolam Gin
+(Gin Code 72042)
+PO Box 396
+O'Donnell, TX 79351
+Sb. License number of last processor
+OTCO-OT-031781
+
+
+
+************************************************************
+
+
+
+4. Inspection body (name and address)
+Oregon Tilth Certified Organic (OTCO)
+PO Box 368
+Corvallis, OR 97339
+
+
+
+************************************************************
+
+
+
+6. Country of Dispatch
+USA
+Buyer of the product(s) (name and address)
+Zagis, S.A. de C.V.
+Carretera Federal Mexico-Queretaro Km. 69 Piso 1
+Col. San Mateo 2a Seccion
+Tepeji del Rio de Ocampo
+Hidalgo C.P. 42853
+7b. License number of buyer
+CU808477GOTS-2022-00067181
+
+
+
+************************************************************
+
+
+
+8. Consignee of the product (address of place of
+destination)
+Zagis, S.A. de C.V.
+Carretera Federal Mexico-Queretaro Km. 69 Piso 1
+Col. San Mateo 2a Seccion
+Tepeji del Rio de Ocampo
+Hidalgo C.P. 42853
+
+
+
+************************************************************
+
+
+
+9. Country of Destination
+Mexico”
+
+
+
+************************************************************
+
+
+
+10. Product and shipment information
+Name of Product : Cotton Lint
+No. Of Units of Product : 90 Bales
+Label grade : Organic
+Fiber material composition : 100% Organic Cotton
+Fiber Quality Technical Specifications: Avg. Staple/Micronaire: 35.60/3.98
+Invoice no. : ZA0622
+Invoice Date : 07/05/22
+Transport document reference (transport company name, date, number):
+Sold DPU Mallory Alexander Warehouse, Laredo, TX
+Trucking to Laredo arranged by Mallory Alexander International Logistics
+Commitmt CpYr GCode Last
+ZA0622 = 2021 72042 Shacktown Organics
+ZA0622 2021 72042 Shacktown Organics
+ZA0622 2021 72042
+ZA0622 2021 72042
+ZA0622 2021 72042
+ZA0622 2021 72042
+ZAQ622__ 2021 72042
+Shacktown Organics
+Shacktown Organics
+Shacktown Organics
+Shacktown Organics
+Shacktown Organics
+First
+GinTag
+11463
+11464
+11465
+11467
+11468
+11469
+11470
+
+
+
+************************************************************
+
+
+
+11. Gross weight (kg)
+19,971 kg
+
+
+
+************************************************************
+
+
+
+12. Net weight (kg)
+19,849 kg
+
+
+
+************************************************************
+
+
+
+13. Certified weight (kg)
+19,849 kg
+ZA0622 2021 72042 Shacktown Organics = 11476
+ZA0622 = 2021 72042 Shacktown Organics 2 11477
+ZA0622 = 2021 72042 Shacktown Organics 7 11478
+ZA0622 2021 72042 Shacktown Organics . 11479
+ZA0622 2021 72042 Shacktown Organics 5 11480
+ZA0622 2021 72042 Shacktown Organics . 11481
+ZA0622 =. 2021 72042 Shacktown Organics * 11569
+ZA0622—- 2021 72042 Shacktown Organics . 11648
+ZA0622 2021 72042 Shacktown Organics & 11997
+ZAQ622 2021 72042 Shacktown Organics 5 11998
+ZA0622 2021 72042 Shacktown Organics . 11999
+ZA0622 2021 72042 Shacktown Organics . 12000
+ZA0622—-2021 72042 Shacktown Organics . 12001
+ZA0622 2021 72042 Shacktown Organics * 12002
+ZA0622 2021 72042 Shacktown Organics . 12003
+ZA0622 2021 72042 Shacktown Organics 5 12004
+ZA0622 2021 72042 Shacktown Organics 5 12005
+ZA0622 2021 72042 Shacktown Organics . 12006
+ZA0622 2021 72042 Shacktown Organics * 12007
+ZA0622 2021 72042 Shacktown Organics # 12008
+ZA0622 2021 72042 Shacktown Organics . 12009
+ZA0622 2021 72042 Shacktown Organics 3 12010
+ZA0622 2021 72042 Shacktown Organics ‘ 12381
+ZA0622 2021 72042 * Shacktown Organics . 12382
+ZA0622 2021 72042 Shacktown Organics . 12384
+ZA0622 2021 72042 Shacktown Organics . 12385
+ZA0622 2021 72042 Shacktown Organics . 12386
+ZA0622 2021 72042 Peters Bernhard 14958
+ZA0622 2021 72042 ~—s~Peters Bernhard 15169
+ZA0622 2021 72042 Peters Bernhard 15170
+ZA0622 2021 72042 Peters Bernhard 15171
+ZA0622 2021 72042 Peters Bernhard 15172
+ZA0622 2021 72042 Peters Bernhard 15173
+ZA0622 2021 72042 Peters Bernhard 15174
+ZA0622 2021 72042 Peters Bernhard 15175
+ZA0622 2021 72042 Peters Bernhard 15176
+ZA0622 2021 72042 Peters Bernhard 15177
+ZA0622 =. 2021 72042 Peters Bernhard 15212
+ZA0622 2021 72042 Peters Bernhard 15213
+ZA0622 2021 72042 Peters Bernhard 15214
+ZA0622 = 2021 72042 Peters Bernhard 15215
+ZA0622 2021 72042 Peters Bernhard 15216
+ZA0622 2021 72042 Peters Bernhard 15217
+ZA0622 2021 72042 Peters Bernhard 15218
+ZA0622 = 2021 72042 Peters Bernhard 15219
+ZA0622 2021 72042 Peters Bernhard 15220
+ZA0622 2021 72042 Peters Bernhard 15221
+ZA0622 2021 72042 Peters Bernhard 15222
+ZA0622 2021 72042 Hutch Hawkins Farms 5 15223
+ZA0622 2021 72042 Hutch Hawkins Farms . 15224
+2A0622 2021 72042 Hutch Hawkins Farms 5 15225
+ZA0622 2021 72042 Hutch Hawkins Farms . 15226
+ZA0622 2021 72042 Hutch Hawkins Farms . 15227
+ZA0622 2021 72042 Hutch Hawkins Farms . 15228
+ZA0622 2021 72042 Hutch Hawkins Farms 7 15229
+ZA0622 = 2021 72042 Hutch Hawkins Farms . 15296
+ZA0622 2021 72042 Hutch Hawkins Farms . 15297
+ZA0622 2021 72042 Hutch Hawkins Farms « 15298
+ZA0622 2021 72042 Hutch Hawkins Farms : 15299
+ZA0622 2021 72042 Hutch Hawkins Farms 3 15300
+ZA0622 2021 72042 Hutch Hawkins Farms : 15302
+ZA0622 2021 72042. Hutch Hawkins Farms : 15303
+ZA0622 2021 72042 Hutch Hawkins Farms q 15304
+ZA0622 2021 72042 Hutch Hawkins Farms ‘6 15305
+ZA0622 2021 72042 Hutch Hawkins Farms * 15306
+ZA0622 2021 72042 Hutch Hawkins Farms . 15307
+ZA0622 2021 72042 Hutch Hawkins Farms 4 15308
+ZA0622 2021 72042. Kevin& Chelsea Furlow JV ‘ 15752
+ZA0622 2021 72042. Kevin&Chelsea Furlow JV : 15753
+ZA0622 2021 72042 Kevin&Chelsea Furlow JV z 15754
+ZA0622 2021 72042 Kevin&Chelsea Furlow JV z 15755
+ZA0622 2021 72042 Kevin&Chelsea Furlow JV ‘ 15756
+ZA0622 2021 72042 Kevin&Cheisea Furlow JV : 15757
+ZA0622 2021 72042 Kevin&Chelsea Furlow JV ‘ 15758
+ZA0622 2021 72042 — Kevin&Chelsea Furlow JV . 15773
+ZA0622 2021 72042 Kevin&Chelsea Furlow JV : 15774
+ZA0622 2021 72042 Kevin&Chelsea Furlow JV ; 15867
+ZA0622 2021 72042 Kevin&Chelsea Furlow JV 5 15902
+ZA0622 2021 72042 — Kevin&Chelsea Furlow JV : 15938
+ZA0622 2021 72042 Kevin&Chelsea Furlow JV é 15939
+ZA0622 2021 72042 Kevin&Chelsea Furlow JV = 15940
+ZA0622 2021 72042. Kevin& Chelsea Furlow JV . 16003
+ZA0622 2021 72042 Mark&CarmenFurlow Farms 16607
+
+
+
+************************************************************
+
+
+
+14. Declaration of the body issuing the certificate
+This is to certify that, based on the relevant documentation obtained by the seller named in box 3, (i) the cotton used for
+the product(s) as further detailed / referred to in box 10 and quantified in box 11, 12 and 13 has been produced in
+accordance with (an) organic farming standard(s) which is/are recognized by the Global Organic Textile Standard (‘GOTS’),
+and (ii) the Products have been processed in accordance with GOTS. Compliance with the standard is audited and
+monitored systematically in an accredited certification system by the inspection body named in box 1.
+
+
+
+************************************************************
+
+
+
+15. Additional declarations
+Certification of the organic fibers used for the products listed complies with USDA NOP rules [X] yes oO no
+(relevant information for products marketed and sold in the US; obligatory information for any GOTS TC) ~
+This transaction certificate does not entitle the buyer / consignee of the goods to use the GOTS logo or make reference to GOTS. For a summary of the
+rules for the labelling of GOTS certified goods please refer to the document “Important information for companies who sell or advertise GOTS Goods”
+{available on https://www.global-standard.org/licensing-and-labelling/how-to-get-products-labelled.htm!
+Country of Origin - Organic Fibers:
+
+
+
+************************************************************
+
+
+
+16. Place and date of issue
+Oregon Tilth, Inc.
+c TEX>
+: aN £s Ga
+3 Gy ap wy
+Miatgtide— (o1c0) 14f)
+¥ 4 24 hy
+ANS hye
+Name: Misty Nider : a *GoTS”
+Date: 6/24/2022 Oregon Tilth Certified Organic Logo of standard
+Stamp of issuing authority or body

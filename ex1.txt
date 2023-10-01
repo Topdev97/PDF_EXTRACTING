@@ -1,0 +1,225 @@
+1. Certification Body
+ICEA - INSTITUTE FOR ETHICAL AND
+ENVIRONMENTAL CERTIFICATION
+Via Giovanni Brugnoli, 15
+Bologna, 40122
+Emilia-Romagna, Italy
+Licensing code of Certification Body:
+GRS - ICEA - 05
+
+
+
+************************************************************
+
+
+
+2. Seller of Certified Products
+FIBERFIL SPA
+Via Serio 67
+Casnigo, 24020
+Lombardia, Italy
+SC Number: GRS 2018-065
+License No: ICEA-TX-675
+
+
+
+************************************************************
+
+
+
+3. Buyer of Certified Products
+JORGE ALBERO PASCUAL, S.L.
+Crta. Villena-alcudia, Km. 18,6 - Ap. 33 ,
+Banyeres De Mariola (alicante) , 03450
+, Spain
+License No:
+
+
+
+************************************************************
+
+
+
+4. Gross Shipping Weight
+46,585.00 Kg
+
+
+
+************************************************************
+
+
+
+5. Net Shipping Weight
+46,438.60 Kg
+
+
+
+************************************************************
+
+
+
+6. Certified Weight
+(GRS): 45,045.45 Kg
+
+
+
+************************************************************
+
+
+
+7. Declarations by Certification Body
+This is to certify that, based on the relevant documentation provided by the seller named in Box 2 “Seller of Certified Products”:
+I. the raw material(s) for the products as further detailed/referred to in Box 10 “Certified Products”, Box 11 “Certified Raw
+Materials and Declared Country/area of Origin” and quantified in Box 4 “Gross Shipping Weight”, Box 5 “Net Shipping Weight” and
+Box 6 “Certified Weight” has/have been produced in accordance with the GRS, and
+II. the products in Box 10 “Certified Products” have been processed in accordance with the GRS. Conformity with the standard is
+audited and monitored systematically under responsibility of the certification body named in Box 1.
+Certification of products included on this transaction certificate was done in accordance with the Content Claim Standard (CCS),
+which is owned by Textile Exchange.
+This transaction certificate does not entitle the Box 3 “Buyer of the Certified Product” to use the GRS logo or make reference to
+the GRS. The rules for the labeling of GRS certified products are outlined in the Textile Exchange TE-301 Standards Claims Policy,
+(available on www.TextileExchange.org). To authenticate this certificate, please visit www.TextileExchange.org/Certificates.
+
+
+
+************************************************************
+
+
+
+8. Certified Input References
+Input TCs:
+
+
+
+************************************************************
+
+
+
+9. Shipments
+Shipment No.: 1 Consignee Name and Address:
+Shipment Date: 2022-03-02 JORGE ALBERO PASCUAL, S.L.,
+Shipment Doc No.: 182 Crta. Villena-alcudia, Km. 18,6 - Ap. 33,,
+Gross Shipping Weight: 0.00 Kg eenietee De Mariola (alicante), 03450
+Invoice References: 157 gpa
+Shipment No.: 2 Consignee Name and Address:
+Shipment Date: 2022-03-29 JORGE ALBERO PASCUAL, S.L.,
+Shipment Doc No.: 288 Crta. Villena-alcudia, Km. 18,6 - Ap. 33,,
+Gross Shipping Weight: 0.00 Kg Hanyetes De Mariola (alicante), 03450
+Invoice References: 243 gopain
+
+
+
+************************************************************
+
+
+
+10. Certified Products
+Product No.: 1 Product Category: Undyed fibers (PC0034)
+Order No.: 157 Product Detail: Staple fibers (PD0079)
+Article No.: 9105 Material Composition: | Recycled post-consumer Polyester (RM0189) 97.00%
+Number of Units: 12.00 (units) Polyester (RMO186) 3.00%
+Net Shipping 4,598.80 Kg Standard (Label Grade): GRS (GRS)
+Weight: Additional Info: Also GRS certified. See separate GRS TC.
+Supplementary 0.00 Kg Last Processor: undisclosed
+Weight: - License Number: undisclosed
+Certified Weight: 4,460.84 Kg - Country: undisclosed
+Production Date:
+Product No.: 2 Product Category: Undyed fibers (PC0034)
+Order No.: 157 Product Detail: Staple fibers (PD0079)
+Article No.: 9107 Material Composition: Recycled post-consumer Polyester (RM0189) 97.00%
+Number of Units: 14.00 (units) Polyester (RM0186) 3.00%
+Net Shipping 5,360.40 Kg Standard (Label Grade): GRS (GRS)
+Weight: Additional Info: Also GRS certified. See separate GRS TC.
+Supplementary 0.00 Kg Last Processor: undisclosed
+Weight: - License Number: undisclosed
+Certified Weight: 5,199.59 Kg - Country: andisclosed
+Production Date:
+Product No.: 3 Product Category: Undyed fibers (PC0034)
+Order No.: 157 Product Detail: Staple fibers (PD0079)
+Article No.: 9108 Material Composition: Recycled post-consumer Polyester (RM0189) 97.00%
+Number of Units: 8.00 (units) Polyester (RMO186)'2.00%
+Net Shipping 3,038.70 Kg Standard (Label Grade): GRS (GRS)
+Weight: Additional Info: Also GRS certified. See separate GRS TC.
+Supplementary 0.00 Kg Last Processor: undisclosed
+Weight: - License Number: undisclosed
+Certified Weight: 2,947.54 Kg - Country: ndisciosed
+Production Date:
+Product No.: 4 Product Category: Undyed fibers (PC0034)
+Order No.: 157 Product Detail: Staple fibers (PD0079)
+Article No.: 9109 Material Composition: | Recycled post-consumer Polyester (RM0189) 97.00%
+Number of Units: 12.00 (units) Polyester (RMO166}'3-00%
+Net Shipping 4,558.30 Kg Standard (Label Grade): GRS (GRS)
+Weight: Additional Info: Also GRS certified. See separate GRS TC.
+Supplementary 0.00 Kg Last Processor: undisclosed
+Weight: - License Number: undisclosed
+Certified Weight: 4,421.55 Kg - Country: andizelesed
+Production Date:
+Product No.: 5 Product Category: Undyed fibers (PC0034)
+Order No.: 157 Product Detail: Staple fibers (PD0079)
+Article No.: 9103 Material Composition: | Recycled post-consumer Polyester (RM0189) 97.00%
+Number of Units: 8.00 (units) Polyester (RMO186) 3.00%
+Net Shipping 3,037.40 Kg Standard (Label Grade): GRS (GRS)
+Weight: Additional Info: Also GRS certified. See separate GRS TC.
+Supplementary 0.00 Kg Last Processor: undisclosed
+Weight: - License Number: undisclosed
+Certified Weight: 2,946.28 Kg - Country: anaigeloxea
+Production Date:
+Product No.: 6 Product Category: Undyed fibers (PC0034)
+Order No.: 157 Product Detail: Staple fibers (PD0079)
+Article No.: 9104 Material Composition: | Recycled post-consumer Polyester (RM0189) 97.00%
+Number of Units: 8.00 (units) Polyester (RMO186):3.0076
+Net Shipping 3,016.80 Kg Standard (Label Grade): GRS (GRS)
+Weight: Additional Info: Also GRS certified. See separate GRS TC.
+Supplementary 0.00 Kg Last Processor: undisclosed
+Weight: - License Number: undisclosed
+Certified Weight: 2,926.30 Kg - Country: undisclosed
+Production Date:
+Product No.: 7 Product Category: Undyed fibers (PC0034)
+Order No.: 243 Product Detail: Staple fibers (PD0079)
+Article No.: 9221 Material Composition: Recycled post-consumer Polyester (RM0189) 97.00%
+Number of Units: 60.00 (units) Polyester:(RMO186):3.00%
+Net Shipping 22,828.20 Kg Standard (Label Grade): GRS (GRS)
+Weight: Additional Info: Also GRS certified. See separate GRS TC.
+Supplementary 0.00 Kg Last Processor: undisclosed
+Weight: - License Number: undisclosed
+Certified Weight: 22,143.35 Kg -Country: undisclosed
+Production Date:
+
+
+
+************************************************************
+
+
+
+11. Certified Raw Materials and Declared Geographic Origin
+1 Recycled post-consumer Polyester Italy (Lombardia)
+(RM0189)
+Certified Weight: 4,460.84Kg
+2 Recycled post-consumer Polyester Italy (Lombardia)
+(RM0189)
+Certified Weight: 5,199.59Kg
+3 Recycled post-consumer Polyester Italy (Lombardia)
+(RM0189)
+Certified Weight: 2,947.54Kg
+4 Recycled post-consumer Polyester Italy (Lombardia)
+(RM0189)
+Certified Weight: 4,421.55Kg
+5 Recycled post-consumer Polyester Italy (Lombardia)
+(RM0189)
+Certified Weight: 2,946.28Kg
+6 Recycled post-consumer Polyester Italy (Lombardia)
+(RM0189)
+Certified Weight: 2,926.30Kg
+7 Recycled post-consumer Polyester Italy (Lombardia)
+(RM0189)
+Certified Weight: 22,143.35Kg
+
+
+
+************************************************************
+
+
+
+12. Declarations by Seller of Certified Products
+The certified product(s) covered in this certificate have been outsourced to a subcontractor: [] YES [x] NO
+n/a
